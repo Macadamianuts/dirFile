@@ -1,0 +1,23 @@
+{
+  "text": "src",
+  "children": [
+    {
+      "text": "model",
+      "children": [
+        {"text": "request"},
+        {"text": "response"}
+      ]
+    },
+    {"text": "api"},
+    {"text": "controller"},
+    {"text": "logs"},
+    {"text": "service"},
+    {"text": "utils"},
+    {"text": "global"},
+    {"text": "router"},
+    {"text": "middleware"},
+    {"text": "common"},
+    {"text": "config"},
+    {"text": "response"}
+  ]
+}
